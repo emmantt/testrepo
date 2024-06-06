@@ -1,1 +1,1 @@
-alert("sprkt verification");
+alert("sprocket confirmation");
